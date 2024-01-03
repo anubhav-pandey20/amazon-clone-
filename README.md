@@ -4,14 +4,19 @@ This repository contains a simple Amazon clone built using HTML and CSS. It serv
 
 Features:-
 1.)  Responsive design for a seamless user experience on various devices.
+
 2.)  Product listings with images, titles, prices, and ratings.
+
 3.)  Interactive elements, such as hover effects and button interactions.
+
 4.)  Clean and modular code structure for easy understanding and customization.
 
 How to Contribute:-
 If you'd like to contribute to the project, feel free to submit pull requests. Here are some areas where you can contribute:
 1.)  Improve responsiveness for additional screen sizes.
+
 2.)  Add new product categories or features.
+
 3.)  Enhance the overall design and aesthetics.
 
 Acknowledgments:-
